@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![Screenshot 2023-09-10 031430](https://github.com/Sulthan-Sulthan/NoteApp/assets/84757988/12b44fb8-46d4-4b17-a703-519b0dada463)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -26,6 +26,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
